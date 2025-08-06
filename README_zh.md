@@ -14,7 +14,7 @@
 
 <img src="./figures/intro_zh.jpg" alt="Introduction" width="800">
 
-本仓库包括了XBai o4的训练代码和测试代码。有关模型算法的详细内容请参考[《Test-Time Scaling with Reflective Generative Model》](https://arxiv.org/abs/2507.01951)和[问小白官网](https://www.wenxiaobai.com/)。
+本仓库包括了XBai o4的训练代码和测试代码。有关模型算法的详细内容请参考[《Test-Time Scaling with Reflective Generative Model》](https://arxiv.org/abs/2507.01951)。
 
 ## 环境配置
 ```bash
