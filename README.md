@@ -17,7 +17,7 @@ By sharing the backbone network between the PRMs and policy models, XBai o4 sign
 
 <img src="./figures/intro.jpg" alt="Introduction" width="800">
 
-This repo contains the training and evaluation code of XBai o4. For full details please refer to our paper [《Test-Time Scaling with Reflective Generative Model》](https://arxiv.org/abs/2507.01951) and [our official website](https://www.wenxiaobai.com/).
+This repo contains the training and evaluation code of XBai o4. For full details please refer to our paper [《Test-Time Scaling with Reflective Generative Model》](https://arxiv.org/abs/2507.01951).
 
 ## Installation
 ```bash
