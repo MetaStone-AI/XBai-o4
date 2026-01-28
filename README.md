@@ -6,6 +6,7 @@
 </div>
 
 ## News
++ **2026.01.26**: Xbai o4's technical paper "[Test-Time Scaling with Reflective Generative Model](https://arxiv.org/abs/2507.01951)" has been accepted by ICLR 2026. 
 + **2025.08.01**: We release **XBai o4**, where *o=open*, and o4 represents our fourth-generation open-source large model technology. **XBai o4** excels in complex reasoning capabilities and has now completely surpassed OpenAI-o3-mini in Medium mode. View the [ModelCard](https://huggingface.co/MetaStoneTec/XBai-o4) to get more information!
 
 ## Introduction
