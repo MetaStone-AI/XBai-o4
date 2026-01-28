@@ -5,6 +5,7 @@
 </div>
 
 ## 更新
++ **2026.01.26**: Xbai o4 的技术论文[《Test-Time Scaling with Reflective Generative Model》](https://arxiv.org/abs/2507.01951)被ICLR2026收录！
 + **2025.08.01**: 我们发布了**XBai o4**，*o=open*，o4代表我们开源的第四代大模型技术。XBai o4在**复杂推理能力方面表现出色**，在Medium模式下，XBai o4 现已全面超越OpenAI-o3-mini。查看[模型地址](https://huggingface.co/MetaStoneTec/XBai-o4)以获取更多信息！
 
 ## 简介
