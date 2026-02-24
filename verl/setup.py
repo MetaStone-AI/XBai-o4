@@ -63,7 +63,11 @@ extras_require = {
 
 
 this_directory = Path(__file__).parent
-long_description = (this_directory / "README.md").read_text()
+try:
+    long_description = (this_directory / "README.md").read_text(encoding='utf-8')
+except (UnicodeDecodeError, UnicodeError, LookupError):
+    # Fallback to a simple description if README.md has encoding issues
+    long_description = "verl: Volcano Engine Reinforcement Learning for LLM"
 
 setup(
     name="verl",
